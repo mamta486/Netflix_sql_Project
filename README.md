@@ -59,35 +59,36 @@ WITH (FORMAT csv, HEADER true, DELIMITER ',', QUOTE '"', ESCAPE '"');
 
 📌 Business Problems Solved
 
-Count the number of Movies vs TV Shows.
+1.Count the number of Movies vs TV Shows.
 
-Find the most common rating for Movies and TV Shows.
+2.Find the most common rating for Movies and TV Shows.
 
-List all Movies released in 2020.
+3.List all Movies released in 2020.
 
-Find the Top 5 countries with the most Netflix content.
+4.Find the Top 5 countries with the most Netflix content.
 
-Identify the longest movie.
+5.Identify the longest movie.
 
-Find content added in the last 5 years.
+6.Find content added in the last 5 years.
 
-Find all content by director Rajiv Chilaka.
+7.Find all content by director Rajiv Chilaka.
 
-List all TV Shows with more than 5 seasons.
+8.List all TV Shows with more than 5 seasons.
 
-Count number of content items in each genre.
+9.Count number of content items in each genre.
 
-Find each year and the average number of content releases by India (Top 5 years).
+10.Find each year and the average number of content releases by India (Top 5 years).
 
-List all Movies that are Documentaries.
+11.List all Movies that are Documentaries.
 
-Find all content without a director.
+12.Find all content without a director.
 
-Find how many Movies actor Salman Khan appeared in the last 10 years.
+13.Find how many Movies actor Salman Khan appeared in the last 10 years.
 
-Find the Top 10 actors in the highest number of Indian movies.
+14.Find the Top 10 actors in the highest number of Indian movies.
 
-Categorize content as Good or Bad based on keywords "kill" and "violence" in the description.
+15.Categorize content as Good or Bad based on keywords "kill" and "violence" in the description.
+
 
 📊 Sample Insights
 
@@ -100,6 +101,7 @@ Categorize content as Good or Bad based on keywords "kill" and "violence" in the
 🎬 The Irishman is one of the longest movies in the dataset.
 
 🔎 Most content on Netflix is labeled as Good Content, with only a smaller portion flagged as Bad Content.
+
 
 📌 How to Use
 
