@@ -2,6 +2,7 @@
 
 This project explores the Netflix dataset of Movies and TV Shows using PostgreSQL.
 The aim is to answer real-world business problems such as popular content types, most common ratings, longest movies, top actors, and more.
+[Netflix_logo](https://github.com/mamta486/Netflix_sql_Project/blob/main/logo_netflix.png)
 
 📂 Dataset
 
